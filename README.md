@@ -1,2 +1,2 @@
 # Whatsapp_Chat_Analyzer
-predicts sentiments of whatsapp chat
+Detailed Chat Analysis of whatsapp user or group chats using python and NLP.
